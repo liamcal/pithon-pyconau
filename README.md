@@ -1,2 +1,4 @@
-# pithon-pyconau
- Pi-thon: Teaching Maths with Python! A talk given at PyCon AU 2018
+#  Pi-thon: Teaching Maths with Python!
+## Liam Callaway
+
+A talk given at PyCon AU 2018
